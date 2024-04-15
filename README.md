@@ -1,2 +1,2 @@
 # PythonKickstart
-Guide to mastering python basics
+Guide to mastering Python Basics
